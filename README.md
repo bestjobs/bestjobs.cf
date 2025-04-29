@@ -1,2 +1,2 @@
-# bestjobs.cf
-www.bestjobs.cf
+# bestjobs
+bestjobs
